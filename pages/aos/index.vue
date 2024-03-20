@@ -1,4 +1,3 @@
 <template>
-
-    <Intro />
+    <Aos />
 </template>

@@ -1,4 +1,3 @@
 <template>
-
-    <Intro />
+    <Faq />
 </template>

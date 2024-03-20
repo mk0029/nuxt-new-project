@@ -1,4 +1,3 @@
 <template>
-
-    <Intro />
+    <EmailJs />
 </template>
